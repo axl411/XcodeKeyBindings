@@ -198,12 +198,18 @@
 	<dict>
 		<key>Key Bindings</key>
 		<dict>
+			<key>^;</key>
+			<string>complete:</string>
+			<key>^g</key>
+			<string>pageUp:</string>
+			<key>^j</key>
+			<string>scrollLineDown:</string>
+			<key>^u</key>
+			<string>scrollLineUp:</string>
 			<key>^</key>
 			<string>scrollPageUp:</string>
-			<key>~i</key>
-			<string>scrollLineUp:</string>
-			<key>~k</key>
-			<string>scrollLineDown:</string>
+			<key>~</key>
+			<string>pageUp:</string>
 		</dict>
 		<key>Version</key>
 		<integer>3</integer>
